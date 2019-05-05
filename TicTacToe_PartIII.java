@@ -1,4 +1,9 @@
 
+//Adam Provost
+//CS-200-1, Spring 2019  
+//Northeastern Illinois Univeristy 
+
+
 import java.util.Scanner;
 
 
